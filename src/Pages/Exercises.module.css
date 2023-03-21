@@ -1,0 +1,38 @@
+.header {
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 22px;
+    padding: 10px;
+}
+
+.containerForIMG {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.imgExercise {
+    width: 200px;
+    height: 200px;
+}
+
+.blockING {
+    display: flex;
+    justify-content: center;
+}
+
+.containerSub {
+    margin: 5px;
+    width: 49%;
+    box-sizing: border-box;
+    border: 2.5px solid #2a474d;
+    border-radius: 7px;
+}
+
+.pos {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}

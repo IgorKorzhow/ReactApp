@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.margin {
+    margin: 10px;
+}
+
+.pos {
+    margin: 40px;
+}

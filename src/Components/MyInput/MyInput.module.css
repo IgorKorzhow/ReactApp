@@ -1,0 +1,20 @@
+.input {
+    font-family: sans-serif;
+    font-size: 18px;
+    color: #2a474d;
+    background-color: #eeeeee;
+    border: 0;
+    border-radius: 4px;
+    padding: 7px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    opacity: 0.9;
+}
+
+.input:hover {
+    opacity: 1;
+}
+
+.input:focus {
+    opacity: 1;
+}

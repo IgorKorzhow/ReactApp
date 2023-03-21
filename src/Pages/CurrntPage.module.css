@@ -1,0 +1,51 @@
+.container {
+    margin: 20px;
+    border: 2.5px solid #2a474d;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+}
+
+.header {
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 22px;
+    padding: 10px;
+}
+
+.info {
+    font-family: sans-serif;
+
+    padding: 10px 30px;
+}
+
+.containerForIMG {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.img {
+    width: 400px;
+    height: 400px;
+}
+
+.imgExercise {
+    width: 200px;
+    height: 200px;
+}
+
+.blockING {
+    display: flex;
+    justify-content: center;
+}
+
+.containerSub {
+    margin: 10px;
+    width: 47%;
+    box-sizing: border-box;
+    border: 2.5px solid #2a474d;
+    border-radius: 7px;
+}
